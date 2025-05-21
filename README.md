@@ -4,6 +4,10 @@
 
 Cada ejercicio incluye una breve descripción y su correspondiente solución en un archivo `.py`.
 
+## 📂 Página web del proyecto
+
+https://jlalib.github.io/genbyte.github.io/
+
 ## 📂 Estructura del proyecto
 
 ```
